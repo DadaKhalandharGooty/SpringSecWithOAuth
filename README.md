@@ -1,1 +1,2 @@
 # SpringSecWithOAuth
+I want make things simple for learners (Of course I am also a learner). There are lot number of YouTube videos and lot number of GitHub repos on this topic. But on intercating with co-leaners, we could not find which makes learning simple and effective (may be there is one which we did not come accross). I want make this repo as one of it's kind. Now it is at zero. Will try to make it available ASAP. But if you have an idea, please do contribute here. 
